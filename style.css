@@ -1,0 +1,29 @@
+body {
+  margin-left: 20%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.item {
+  margin: 1%;
+  display: flex;
+}
+.name,
+.total {
+  font-weight: 400;
+  font-size: 20px;
+}
+.subscr {
+  display: grid;
+  margin: 1%;
+  width: 25%;
+  font-size: 15px;
+}
+.price_value {
+  margin: 2%;
+  font-weight: 600;
+  color: blue;
+}
+
+button,
+.total {
+  margin-left: 18%;
+}
